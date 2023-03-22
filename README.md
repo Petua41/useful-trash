@@ -1,4 +1,4 @@
-# useful-trash
+# Useful Trash
 There are some small, but useful programs (Python classes, etc.) that I once written to use in another project
 
 ## Directories:
